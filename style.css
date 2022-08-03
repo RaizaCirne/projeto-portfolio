@@ -7,9 +7,15 @@ header {
     background: #9212a1;
     margin: 0;
 }
+
+nav {
+    padding-left: 940px;
+}
+
 #topmenu {
     margin: 0;
 }
+
 #topmenu li {
     color: white;
     text-decoration: none;
@@ -18,6 +24,11 @@ header {
     text-transform: uppercase;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+
+
+
+
 
 
 
