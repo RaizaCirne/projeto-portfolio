@@ -64,6 +64,7 @@ button:hover {
 .section2 {
     height: 609px;
     background: #c24ecf;
+    position: relative;
 }
 
 .section3 {
