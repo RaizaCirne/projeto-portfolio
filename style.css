@@ -27,8 +27,21 @@ header {
 }
 
 .section1 {
+    margin: 0 auto;
+    text-align: center;
     height: 609px;
     background:#b42ac9;
+}
+
+h1 {
+    color: white;
+    margin: 0;
+    padding-top: 250px;
+}
+
+button {
+    margin: 15px;
+    width: 100px;
 }
 
 .section2 {
