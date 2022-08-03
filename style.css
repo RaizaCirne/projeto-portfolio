@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+#topmenu {
+    display: flex;
+    background-color: #ebd3e7; 
+    margin: 0;
+}
+
+#topmenu li {
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px;
+    text-transform: uppercase;
+}
+
+#topmenu li:first-child {
+    margin-right: auto;
+}
+
