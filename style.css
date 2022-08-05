@@ -61,36 +61,13 @@ button:hover {
     color: white;
 }
 
-.tecnologias {
-    height: 609px;
-    background: #c24ecf;
-    position: relative;
-    padding-left: 250px;
-}
 
-.imagemprojeto {
-    display: inline-block;
+
+img {
     height: 2000px;
 }
 
-h2 {
-    text-align: center;
-    font-size: 1.5em;
-    font-weight: bold;
-    color: white;
-    
-}
 
-p {
-    text-align: center;   
-}
-
-#listatech {
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-left: 500px;
-}
 
 .section3 {
     height: 609px;
