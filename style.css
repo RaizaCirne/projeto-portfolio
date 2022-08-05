@@ -65,21 +65,31 @@ button:hover {
     height: 609px;
     background: #c24ecf;
     position: relative;
+    padding-left: 250px;
 }
 
 .imagemprojeto {
-    height: 500px;
+    display: inline-block;
+    height: 2000px;
 }
 
 h2 {
-    margin: 0;
-    text-align: right;
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
     
 }
 
 p {
-    text-align: right;
-   
+    text-align: center;   
+}
+
+#listatech {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-left: 500px;
 }
 
 .section3 {
