@@ -26,7 +26,7 @@ header {
     margin-right: auto;
 }
 
-.section1 {
+#principal {
     height: 609px;
     margin: 0 auto;
     text-align: center;
@@ -61,14 +61,14 @@ button:hover {
     color: white;
 }
 
-.section2 {
+.tecnologias {
     height: 609px;
     background: #c24ecf;
     position: relative;
 }
 
-#section-lista {
-    
+h2 {
+    margin: 0;
 }
 
 .section3 {
