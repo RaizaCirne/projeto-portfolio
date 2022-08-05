@@ -67,8 +67,19 @@ button:hover {
     position: relative;
 }
 
+.imagemprojeto {
+    height: 500px;
+}
+
 h2 {
     margin: 0;
+    text-align: right;
+    
+}
+
+p {
+    text-align: right;
+   
 }
 
 .section3 {
