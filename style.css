@@ -8,7 +8,6 @@ header {
     margin: 0;
 }
 
-
 #topmenu {
     margin: 0;
     display: flex;
@@ -34,7 +33,6 @@ header {
     background:#b42ac9;
 }
 
-
 img {
     max-width:300px;
     max-height:250px;
@@ -42,6 +40,7 @@ img {
     height: auto;
     padding-top: 170px;
 }
+
 h1 {
     color: white;
     margin: 0;
@@ -92,7 +91,6 @@ li {
     padding-bottom: 15px;
 }
 
-
 .section3 {
     display: flex;
     height: 609px;
@@ -101,11 +99,8 @@ li {
 
 .imagemprojeto2 {
     height: 2000px;
-    padding-left: 150px;
+    padding-left: 10px;
 }
-
-
-
 
 .section4 {
     display: flex;
