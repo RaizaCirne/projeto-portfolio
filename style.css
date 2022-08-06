@@ -33,7 +33,7 @@ header {
     background:#b42ac9;
 }
 
-img {
+.foto {
     max-width:300px;
     max-height:250px;
     width: auto;
@@ -78,8 +78,9 @@ button:hover {
 }
 
 .imagemprojeto {
-    height: 2000px;
-    padding-left: 50px;
+    height: auto;
+    padding-top: 170px;
+    padding-left: 50px;   
 }
 
 .listaprojeto {
@@ -98,8 +99,9 @@ li {
 }
 
 .imagemprojeto2 {
-    height: 2000px;
-    padding-left: 10px;
+    height: auto;
+    padding-top: 170px;
+    padding-left: 50px;   
 }
 
 .section4 {
