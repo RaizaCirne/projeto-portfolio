@@ -11,7 +11,7 @@
 
 # Bem-vindo! 👋
 
-Essa foi a criação de um modelo de portfólio para desenvolvedores afim de adquirir habilidades de codificação criando projetos realistas.
+Essa foi a criação de um modelo de portfólio para desenvolvedores, afim de adquirir habilidades de codificação criando projetos realistas.
 
 ## O projeto
 
