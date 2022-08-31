@@ -121,4 +121,4 @@ git clone https://github.com/RaizaCirne/projeto-portfolio.git
 
 - Personal Page - [Raíza Cirne Braz]()
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
-- GitHub - [RaizaCirne](https://github.com/RaizaCirne)
+- GitHub - [RaizaCirne](https://github.com/RaizaCirne).
