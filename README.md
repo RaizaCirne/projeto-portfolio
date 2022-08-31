@@ -79,7 +79,7 @@ Os desenhos estão em formato PNG estático. Usei meu julgamento para estilos co
 
 <br />
 
-- Clique no link para acessar a página:
+- Clique no link para acessar a página: https://zesty-begonia-0e8574.netlify.app/
 
 <br />
 
@@ -119,6 +119,6 @@ git clone https://github.com/RaizaCirne/projeto-portfolio.git
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz]()
+- Personal Page - [Raíza Cirne Braz](https://zesty-begonia-0e8574.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
