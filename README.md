@@ -43,7 +43,7 @@ Os desenhos estão em formato PNG estático. Usei meu julgamento para estilos co
 
 4. As `section` dos sites foram organizadas por `table`, `tr`, `td` e uma lista `ul` desordenada `li`    
 
-5. Criação do arquivo do `footer` 
+5. Criação do `footer` 
 
 
 **HTML - CSS** 🚀
