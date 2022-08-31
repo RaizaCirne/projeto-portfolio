@@ -51,12 +51,6 @@ Os desenhos estão em formato PNG estático. Usei meu julgamento para estilos co
 
 5. Criação do `footer` 
 
-
-# Tecnologias utilizadas <a name="#id04"></a>
-
-- HTML5
-- CSS3. 
-
 <br />
 
 # :camera_flash: Screenshots <a name="id02"></a>
