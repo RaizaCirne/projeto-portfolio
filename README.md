@@ -28,8 +28,8 @@ Os desenhos estão em formato PNG estático. Usei meu julgamento para estilos co
 
 ## Front end
 
-- HTML
-- CSS. 
+- HTML5
+- CSS3. 
 
 # Sobre o projeto
 
