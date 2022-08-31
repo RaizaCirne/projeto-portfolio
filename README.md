@@ -33,7 +33,7 @@ Os desenhos estão em formato PNG estático. Usei meu julgamento para estilos co
 
 # Sobre o projeto
 
-**A construção deste projeto consistiu na criação de uma página.**
+**A construção deste projeto consistiu em:**
 
 1. Criação do arquivo `index.html` e do `style.css`. 
 
