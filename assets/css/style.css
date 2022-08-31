@@ -14,7 +14,7 @@ header {
 }
 
 #topmenu li {
-    color: white;
+    color: black;
     text-decoration: none;
     display: block;
     padding: 15px;
@@ -30,7 +30,7 @@ header {
     height: 609px;
     margin: 0 auto;
     text-align: center;
-    background:#b42ac9;
+    background:#d59edb;
 }
 
 .foto {
@@ -42,7 +42,7 @@ header {
 }
 
 h1 {
-    color: white;
+    color: #b437bf;
     margin: 0;
     padding-top: 15px;
     font-size: 25px;
@@ -59,7 +59,7 @@ button {
 
 button:hover {
     background-color: #9212a1;
-    color: white;
+    color: white; 
 }
 
 #projetos {
@@ -74,7 +74,7 @@ button:hover {
 
 .section2 {
     display: flex;
-    background: #c24ecf;
+    background: #d7abdb;
 }
 
 .imagemprojeto {
@@ -84,8 +84,8 @@ button:hover {
 }
 
 .listaprojeto {
-    color: white;
     padding-top: 150px;
+    color: #b437bf;
 }
 
 li {
@@ -94,7 +94,7 @@ li {
 
 .section3 {
     display: flex;
-    background: #c879d1;
+    background: #d59edb;
 }
 
 .imagemprojeto2 {
@@ -105,7 +105,7 @@ li {
 
 .section4 {
     display: flex;
-    background:#d59edb;
+    background:#d7abdb;
 }
 
 footer {
