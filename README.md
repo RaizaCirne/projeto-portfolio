@@ -14,7 +14,7 @@
 
 **A construção deste projeto consiste em um modelo de portfólio.**
 
-Essa foi a criação de um modelo de portfólio para desenvolvedores afim de adquirir habilidades de codificação criando projetos realistas.
+Essa foi a criação de um modelo de portfólio para desenvolvedores, afim de adquirir habilidades de codificação criando projetos realistas.
 
 # 🚀 Proposta <a name="id01"></a>
 
@@ -39,7 +39,20 @@ O objetivo foi criar um modelo de portófio útil para utilização na comunidad
 Dentro da pasta `/design` encontram-se os designs do projeto. 
 Os desenhos estão em formato PNG estático. Usei meu julgamento para estilos como `font-size`, `padding`, `margin` e `color`. 
 
+<<<<<<< HEAD
 **Construção**
+=======
+# Tecnologias utilizadas 
+
+## Front end
+
+- HTML5
+- CSS3. 
+
+# Sobre o projeto
+
+**A construção deste projeto consistiu em:**
+>>>>>>> b0f37fc130227ae5a122f5f058e352352db49e1d
 
 1. Criação do arquivo `index.html` e do `style.css`. 
 
@@ -49,7 +62,7 @@ Os desenhos estão em formato PNG estático. Usei meu julgamento para estilos co
 
 4. As `section` dos sites foram organizadas por `table`, `tr`, `td` e uma lista `ul` desordenada `li`    
 
-5. Criação do arquivo do `footer` 
+5. Criação do `footer` 
 
 <br />
 
@@ -121,4 +134,4 @@ git clone https://github.com/RaizaCirne/projeto-portfolio.git
 
 - Personal Page - [Raíza Cirne Braz]()
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
-- GitHub - [RaizaCirne](https://github.com/RaizaCirne).
+- GitHub - [RaizaCirne](https://github.com/RaizaCirne)
